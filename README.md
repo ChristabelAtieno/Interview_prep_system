@@ -44,6 +44,8 @@ DATABASE_URL=sqlite:///data/interview.db
 ```bash
 streamlit run app.py
 ```
+6. To access the system:
+Here's the link http://194.163.165.107:8501/
 
 ## Usage
 
